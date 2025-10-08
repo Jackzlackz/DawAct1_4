@@ -2,3 +2,6 @@ body{
     background-color: gray;
     color: white;
 }
+bounce:hover {
+    animation: bounce 2s infinite;
+}
